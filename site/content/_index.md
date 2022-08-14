@@ -12,6 +12,7 @@ intro:
   text: Hey MAma
 products: []
 values:
-  heading: Our Agenda
-  text: Information is the one of the most valuable thing of people  .
+  heading: SoMe Information
+  text: Information is the one of the most valuable thing of people  . We give
+    some Valuable information about the Coffee to the COFFEE Lover
 ---

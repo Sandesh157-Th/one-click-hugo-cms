@@ -1,10 +1,12 @@
 ---
 title: WE are Here To Give You Information About The  World..
 subtitle: Please support Us and Follow OUr Chanel in Different Platform..
-image: img/about-shade-grown.jpg
+image: img/he.jpg
 blurb:
-  heading: Hackeath
-  text: "There is nothing "
+  heading: NESCAFÉ® Classic
+  text: The unmistakable full-flavour of NESCAFÉ® Classic is what makes our
+    signature coffee so loved all over the world. Savour the wonderfully rich
+    and refreshing aroma of this medium-dark roast.
 intro:
   heading: What we offer
   text: Hey MAma

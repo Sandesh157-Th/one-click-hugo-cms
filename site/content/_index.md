@@ -1,5 +1,5 @@
 ---
-title: WE are Here To Give You Information About The TecH World..
+title: WE are Here To Give You Information About The  World..
 subtitle: Please support Us and Follow OUr Chanel in Different Platform..
 image: img/about-shade-grown.jpg
 blurb:

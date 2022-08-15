@@ -1,7 +1,7 @@
 ---
 title: WE are Here To Give You Information About The  World..
 subtitle: Please support Us and Follow OUr Chanel in Different Platform..
-image: img/products-jumbotron.jpg
+image: img/about-shade-grown.jpg
 blurb:
   heading: NESCAFÉ® Classic
   text: The unmistakable full-flavour of NESCAFÉ® Classic is what makes our
